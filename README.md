@@ -1,3 +1,4 @@
+<pre>
 ## Overview
 - Define products with name, price, and quantity.  
 - Products can be: Expirable (with expiry check) / Shippable (with weight in kg) / Digital (like Scratch Cards).  
@@ -33,7 +34,6 @@ CONSOLE OUTPUT
 3x Cheese 500g  
 2x Biscuits 700g  
 Total package weight 2.9kg  
-  
 ** Checkout receipt **  
 3x Cheese 600  
 2x Biscuits 200  
@@ -42,3 +42,4 @@ Total package weight 2.9kg
 Subtotal 950  
 Shipping 29  
 Amount 979  
+</pre>
